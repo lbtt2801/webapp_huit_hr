@@ -559,7 +559,8 @@
         "quanlynhanvien": "Manager Employees",
         "tonghoptrongngay": "Synthesize the day",
         "quanlychamcong": "Manage \n timekeeping",
-        "khongcoquyen": "You do not have permission to add employee"
+        "khongcoquyen": "You do not have permission to add employee",
+        "chucnangdangphattrien": "Function under development"
     },
     "tabtop": {
         "themdon": "Add Request",
@@ -1903,7 +1904,6 @@
         "congviecdangtheodoi": "Task being monitored",
         "nhacnhonhiemvucuatoi": "Remind task being monitored",
         "viechethantrongngay": "Same day expiration"
-   
     },
     "JeeSocial": {
         "jeeNew": "JeeNew",
@@ -2346,7 +2346,7 @@
         "buoc": "Step",
         "ogiua": "Look straight",
         "trai": "Look left",
-        "phai": "Look right",        
+        "phai": "Look right",
         "nhinlen": "Look up",
         "nhinxuong": "Look down",
         "chupanh": "Take photo",
@@ -2357,5 +2357,4 @@
         "dongy": "OK",
         "hoantat": "Done"
     }
-    
 }

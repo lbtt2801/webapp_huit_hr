@@ -515,7 +515,6 @@
         "xinchao": "Xin chào !",
         "chucnangcanhan": "Chức năng cá nhân",
         "chucnangquanly": "Chức năng quản lý"
-        
     },
     "menu": {
         "dangkyfacenv": "Đăng ký\nkhuôn mặt",
@@ -530,7 +529,7 @@
         "xembangluong": "Xem bảng lương",
         "duyetnghiphep": "Duyệt nghỉ phép",
         "danhsachnghiphep": "Danh sách\nnghỉ phép",
-        "pheptonnhanvien": "Phép tồn\nnhân viên",
+        "pheptonnhanvien": "Phép tồn nhân viên",
         "duyetdangkytangca": "Duyệt đăng\nký tăng ca",
         "dulieuchamcong": "Dữ liệu\nchấm công",
         "giaiTrinhChamCong": "Giải trình \nchấm công",
@@ -558,7 +557,8 @@
         "quanlychamcong": "Quản lý \n chấm công",
         "tonghoptrongngay": "Tổng hợp trong ngày",
         "khongcoquyen": "Bạn không có quyền thêm nhân viên",
-        "chamcongver2": "Chấm công V2"
+        "chamcongver2": "Chấm công V2",
+        "chucnangdangphattrien": "Chức năng đang phát triển"
     },
     "tabtop": {
         "themdon": "Thêm đơn",
@@ -2362,7 +2362,7 @@
         "chonanhcuaban": "Chọn ảnh của bạn",
         "taianhlen": "Tải ảnh lên"
     },
-    "scFaceCameraScreen":{
+    "scFaceCameraScreen": {
         "huongdandangky": "Hướng dẫn đăng ký:",
         "datmatvaokhunghinh": "• Đặt mặt vào khung hình",
         "nhinthangsaudoxoaytraiphailenxuong": "• Nhìn thẳng, sau đó xoay trái, phải, lên, xuống",
@@ -2382,5 +2382,4 @@
         "dongy": "Đồng ý",
         "hoantat": "Hoàn tất"
     }
-
 }
